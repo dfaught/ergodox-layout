@@ -1,0 +1,43 @@
+Name = "MDErgo1";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "Derek Faught";
+KLL = "0.5";
+
+U"5" : U"CTRL" + U"SPACE", '5';
+U"4" : U"CTRL" + U"SPACE", '4';
+U"3" : U"CTRL" + U"SPACE", '3';
+U"2" : U"CTRL" + U"SPACE", '2';
+U"1" : U"CTRL" + U"SPACE", '1';
+
+U"6" : U"CTRL" + U"SPACE", '6';
+U"7" : U"CTRL" + U"SPACE", '7';
+U"8" : U"CTRL" + U"SPACE", '8';
+U"9" : U"CTRL" + U"SPACE", '9';
+U"0" : U"CTRL" + U"SPACE", '0';
+
+U"T" : U"CTRL" + U"SPACE", U"T";
+U"R" : U"CTRL" + U"SPACE", U"R";
+U"E" : U"CTRL" + U"SPACE", U"E";
+U"W" : U"CTRL" + U"SPACE", U"w";
+U"Q" : U"CTRL" + U"SPACE", U"Q";
+U"G" : U"CTRL" + U"SPACE", U"G";
+U"F" : U"CTRL" + U"SPACE", U"F";
+U"D" : U"CTRL" + U"SPACE", U"D";
+U"S" : U"CTRL" + U"SPACE", U"S";
+U"A" : U"CTRL" + U"SPACE", U"A";
+U"TAB" : U"CTRL" + U"SPACE", U"ESCAPE";
+U"B" : U"CTRL" + U"SPACE", U"B";
+#U"RGUI" + U"V" : U"CTRL" + U"SPACE", U"RSHIFT" + U"V";
+U"C" : U"CTRL" + U"SPACE", U"C";
+U"X" : U"CTRL" + U"SPACE", U"X";
+U"Z" : U"CTRL" + U"SPACE", U"Z";
+U"RBRACE" : U"CTRL" + U"SPACE", '#';
+#U"LGUI" + U"H" : U"CTRL" + U"SPACE", U"LSHIFT" + U"H";
+U"H" : U"CTRL" + U"SPACE", U"CTRL" + U"H";
+U"J" : U"CTRL" + U"SPACE", U"CTRL" + U"J";
+U"K" : U"CTRL" + U"SPACE", U"CTRL" + U"K";
+U"L" : U"CTRL" + U"SPACE", U"CTRL" + U"L";
+U"COMMA" : U"CTRL" + U"SPACE", U"COMMA";
+U"PERIOD" : U"CTRL" + U"SPACE", U"PERIOD";
